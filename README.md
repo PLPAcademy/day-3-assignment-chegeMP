@@ -109,3 +109,18 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+1. B
+2. D
+3. B
+4. C
+5. B
+6. C
+7. A
+8. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py.
+9. C
+10. B
+11. B
+12. A
+13. B
+14. B
